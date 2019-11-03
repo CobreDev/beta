@@ -1,0 +1,179 @@
+Package: com.cooper.blockpowerdown
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: mac-user669 <cooper@cooperhull.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.cooper.blockpowerdown_1.0.deb
+Size: 3940
+MD5sum: 3961462c84e3dc8a50cde4c9c4272dbe
+SHA1: 6f4bcdfe44af1d1551b4bfeceb6092cb6b2d9eaf
+SHA256: 32af3fd720a005a54667fba12ae3a9d0c370b1c4aa734634197adaf21a680cb4
+Section: Tweaks
+Description: Blocks the Power Down menu
+Author: mac-user669 <cooper@cooperhull.com>
+Depiction: ./depictions/?p=com.cooper.blockpowerdown/
+Name: BlockPowerDown
+Sileodepiction: ./sileodepictions/BlockPowerDown.json
+
+Package: com.cooper.blockpowerdown
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: mac-user669 <cooper@cooperhull.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.cooper.blockpowerdown_1.1.deb
+Size: 4112
+MD5sum: 19de8831d84eee050a7e0961c2389891
+SHA1: b698bb2b27b41ad5302dc7ce9d9fc983544e84bf
+SHA256: d353a2241a05c0e69f207317ad6510cab3927de29925a4b2532c2c87b3ce78c8
+Section: Tweaks
+Description: Blocks the Power Down menu
+Author: mac-user669 <cooper@cooperhull.com>
+Depiction: ./depictions/?p=com.cooper.blockpowerdown/
+Name: BlockPowerDown
+Sileodepiction: ./sileodepictions/BlockPowerDown.json
+
+Package: com.cooper.limelightblack
+Version: 1.3
+Architecture: iphoneos-arm
+Maintainer: mac-user669 <cooper@cooperhull.com>
+Filename: ./debs/com.cooper.limelightblack_1.3.deb
+Size: 12617896
+MD5sum: 0255ec563a157ee9fb372c39ccae91d7
+SHA1: 872f7661a0011e35607465c9177fa65e58c8e3c5
+SHA256: 2c76a2e2cb7dd4a5839a007aa598ae7a8a061f109d1b5c79870031ed7e981af5
+Section: Themes
+Description: Limelight, but Black!
+Author: mac-user669 <cooper@cooperhull.com>
+Depiction: ./depictions/?p=com.cooper.limelightblack/
+Name: LimelightBlack
+Sileodepiction: ./sileodepictions/com.cooper.limelightblack.json
+
+Package: com.cooper.limelightblue
+Version: 1.3
+Architecture: iphoneos-arm
+Maintainer: mac-user669 <cooper@cooperhull.com>
+Filename: ./debs/com.cooper.limelightblue_1.3.deb
+Size: 14053752
+MD5sum: da3ecf09461fd5bd5c0dddf11028b009
+SHA1: 512e00f64aeae3eba2793c1f915eb276eb6db6f4
+SHA256: a948de904eaff97e0ec52eede6375d6cbc983a9b1a2455f35461191c2ec1e7fa
+Section: Themes
+Description: Limelight, but Blue!
+Author: mac-user669 <cooper@cooperhull.com>
+Depiction: ./depictions/?p=com.cooper.LimelightBlue/
+Name: LimelightBlue
+Sileodepiction: ./sileodepictions/com.cooper.limelightblue.json
+
+Package: com.cooper.limelightgreen
+Version: 1.3
+Architecture: iphoneos-arm
+Maintainer: mac-user669 <cooper@cooperhull.com>
+Filename: ./debs/com.cooper.limelightgreen_1.3.deb
+Size: 13976232
+MD5sum: a68502de6b16abda52f9e7339d3844c1
+SHA1: 450b31be00e41a120b0d68fd49ac0ee54cb51db2
+SHA256: ad8d2ed827841d56638b53bd0b2ed076276239053abfa2788081051984a541e9
+Section: Themes
+Description: Limelight, but Green!
+Author: mac-user669 <cooper@cooperhull.com>
+Depiction: ./depictions/?p=com.cooper.LimelightGreen/
+Name: LimelightGreen
+Sileodepiction: ./sileodepictions/com.cooper.limelightgreen.json
+
+Package: com.cooper.limelightpink
+Version: 1.3
+Architecture: iphoneos-arm
+Maintainer: mac-user669 <cooper@cooperhull.com>
+Filename: ./debs/com.cooper.limelightpink_1.3.deb
+Size: 14102028
+MD5sum: 93338e1011c1687a1288485fcc4a699e
+SHA1: 5b4fd0a7a574db7b44979f1b930aa98cab2ee46f
+SHA256: 8d08d9a5490d608098a1bbaacf8dda83a4a8dd36181cb9877a7f604cf3291dbd
+Section: Themes
+Description: Limelight, but Pink!
+Author: mac-user669 <cooper@cooperhull.com>
+Depiction: ./depictions/?p=com.cooper.LimelightPink/
+Name: LimelightPink
+Sileodepiction: ./sileodepictions/com.cooper.limelightpink.json
+
+Package: com.cooper.limelightpurple
+Version: 1.3
+Architecture: iphoneos-arm
+Maintainer: mac-user669 <cooper@cooperhull.com>
+Filename: ./debs/com.cooper.limelightpurple_1.3.deb
+Size: 14120216
+MD5sum: 26b585c73dd0e64de0911cdbd7692ad5
+SHA1: 10c6f4de7fd008be6f823b2110ab19a1ac962369
+SHA256: d788df3674b97bf2dd1aa3a0fc7ec1a89bf024224fc58878e69af20cc3d159b0
+Section: Themes
+Description: Limelight, but Purple!
+Author: mac-user669 <cooper@cooperhull.com>
+Depiction: ./depictions/?p=com.cooper.LimelightPurple/
+Name: LimelightPurple
+Sileodepiction: ./sileodepictions/com.cooper.limelightpurple.json
+
+Package: com.cooper.limelightred
+Version: 1.3
+Architecture: iphoneos-arm
+Maintainer: mac-user669 <cooper@cooperhull.com>
+Filename: ./debs/com.cooper.limelightred_1.3.deb
+Size: 14007644
+MD5sum: 2f43a8a85385b3e1c0c562fb69da4890
+SHA1: b1907725f9cd26f4d24ad063cf27a3f168cdf47b
+SHA256: eda077f501eaafcbe2d010c622b980c187728e46da37f7c3650f7f74374a455c
+Section: Themes
+Description: Limelight, but Red!
+Author: mac-user669 <cooper@cooperhull.com>
+Depiction: ./depictions/?p=com.cooper.LimelightRed/
+Name: LimelightRed
+Sileodepiction: ./sileodepictions/com.cooper.limelightred.json
+
+Package: com.cooper.limelightyellow
+Version: 1.3
+Architecture: iphoneos-arm
+Maintainer: mac-user669 <cooper@cooperhull.com>
+Filename: ./debs/com.cooper.limelightyellow_1.3.deb
+Size: 13960132
+MD5sum: 562a010c7a2949d06bbac85a4c9365e4
+SHA1: b2e9f1cfa391881934c021b8b65bf7356541703e
+SHA256: ef652480c8ad9ac179b8b6b652d87f65d591fd78dbd6db70c66d0991f90b8f5b
+Section: Themes
+Description: Limelight, but Yellow!
+Author: mac-user669 <cooper@cooperhull.com>
+Depiction: ./depictions/?p=com.cooper.LimelightYellow/
+Name: LimelightYellow
+Sileodepiction: ./sileodepictions/com.cooper.limelightyellow.json
+
+Package: com.cooper.limewindows
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: mac-user669 <cooper@cooperhull.com>
+Filename: ./debs/com.cooper.limewindows_1.1.deb
+Size: 19984704
+MD5sum: 150bac2fddc3b9b1945ae035a25f3654
+SHA1: e591209aa40d777b4f1b3b19d3fd5be6edf911a6
+SHA256: eaab251db8a029d7fadc68f95f7a25736705c9a4cebca74b3242e32e9f4b0f52
+Section: Themes
+Description: White glyphs, with a Windows 10 feel
+Author: mac-user669 <cooper@cooperhull.com>
+Depiction: ./depictions/?p=com.cooper.LimeWindows/
+Name: LimeWindows
+Sileodepiction: ./sileodepictions/limewindows.json
+
+Package: com.nnoce.split
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: mac-user669 <cooper@cooperhull.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.nnoce.split.deb
+Size: 2296040
+MD5sum: e99f270faec661383fc1e9a554503053
+SHA1: 6628659f3e465a09e75ae1270e32bc6c77679d47
+SHA256: ba13214ebfa8c0d7afa360ba4cd1a70397862da03e3e17323d5456cae1948251
+Section: Widgets
+Description: A simple LS widget with a vertical bar
+Author: nnoce
+Depiction: ./depictions/?p=com.nnoce.split/
+Name: Split
+Sileodepiction: ./sileodepictions/Split.json
+
