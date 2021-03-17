@@ -5,8 +5,8 @@
   "banners":
    [
      {
-       "url":"https://raw.githubusercontent.com/CobreDev/repo/Banners/ZenithDarkBanner.png",
-       "title":"ZenithDark",
+       "url":"https://raw.githubusercontent.com/CobreDev/beta/master/Banners/BlurHider.png",
+       "title":"BlurHider",
        "package":"dev.cobre.blurhider",
        "hideShadow":false
       }
