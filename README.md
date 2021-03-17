@@ -1,6 +1,14 @@
-# mac-user669's repo
+# Cobre's Beta Repo
 
-A place to download all of mac-user669's free tweaks and themes!
+#### Beta versions of my tweaks and themes
+
+[Add To Cydia](cydia://url/https://cydia.saurik.com/api/share#?source=https://beta.cobre.dev/) </br>
+[Add To Sileo](sileo://source/https://beta.cobre.dev/) </br>
+[Add To Zebra](zbra://sources/add/https://beta.cobre.dev/)
 
 
-Based on [Reposi3](https://github.com/supermamon/Reposi3/)
+## Packages
+[BlurHider](depictions/BlurHider)
+
+## Source Code
+[github.com/CobreDev/beta](https://github.com/CobreDev/beta)
